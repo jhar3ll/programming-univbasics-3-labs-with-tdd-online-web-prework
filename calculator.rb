@@ -1,7 +1,7 @@
 # Add your variables here 
 
-first_number=13
-second_number=26
+first_number = 13
+second_number = 26
 
  sum=(first_number+second_number)
 
